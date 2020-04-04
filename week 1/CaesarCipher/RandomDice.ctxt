@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=RandomDice
+comment1.params=throwDice
+comment1.target=void\ randomDice(int)
+numComments=2
