@@ -1,0 +1,28 @@
+#BlueJ class context
+comment0.target=GladLibHashMap
+comment1.params=
+comment1.target=GladLibHashMap()
+comment10.params=source
+comment10.target=java.lang.String\ fromTemplate(java.lang.String)
+comment11.params=source
+comment11.target=java.util.ArrayList\ readIt(java.lang.String)
+comment12.params=
+comment12.target=void\ makeStory()
+comment2.params=source
+comment2.target=GladLibHashMap(java.lang.String)
+comment3.params=source
+comment3.target=void\ initializeFromSource(java.lang.String)
+comment4.params=
+comment4.target=void\ totalWordsInMap()
+comment5.params=
+comment5.target=void\ totalWordsConsidered()
+comment6.params=source
+comment6.target=java.lang.String\ randomFrom(java.util.ArrayList)
+comment6.text=private\ void\ initializeFromSource(String\ source)\ {\r\n\ \ \ \ \ \ \ \ HashMap<String,\ ArrayList<String>>\ myMap2\ \=\ new\ HashMap<String,\ ArrayList<String>>();\r\n\ \ \ \ \ \ \ \ for(String\ s\ \:\ myLabelSource.keySet()){\r\n\ \ \ \ \ \ \ \ \ \ \ \ ArrayList<String>\ list\ \=\ readIt(myLabelsource.get(s));\r\n\ \ \ \ \ \ \ \ \ \ \ \ myMap2.put(s,\ list);\r\n\ \ \ \ \ \ \ \ }\r\n}
+comment7.params=label
+comment7.target=java.lang.String\ getSubstitute(java.lang.String)
+comment8.params=w
+comment8.target=java.lang.String\ processWord(java.lang.String)
+comment9.params=s\ lineWidth
+comment9.target=void\ printOut(java.lang.String,\ int)
+numComments=13
